@@ -1,7 +1,7 @@
 # Satisfactory-AB_TrashSeason
 The development source for the Satisfactory mod AB_TrashSeason
 
-See the [mod page](https://ficsit.app/mod/?????????????) for details
+See the [mod page](https://ficsit.app/mod/EbrX9MZXd9Ge4f) for details
 
 # Setup
 If you want to play the mod, install it via SMM.
