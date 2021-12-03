@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
+	"FriendlyName": "AB_TrashSeason",
+	"Description": "More fair sink values for Ficsmas items.",
+	"Category": "Modding",
+	"CreatedBy": "AngryBeaver#9028",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules" : [],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.2.1",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
