@@ -1,5 +1,16 @@
 _promo/*.afdesign
+*.png
+!_promo/*.png
 *.tga
 *.blend[0-9]*
+*.painter_lock
 *_autosave_[0-9].spp
+*/.autosave/*
 *.fbx
+_*Ref.*
+desktop.ini
+/Audio_Source
+/PluginFolder/Saved
+/PluginFolder/Binaries
+/PluginFolder/Intermediate
+/PluginFolder/Metadata/Crypto.json
